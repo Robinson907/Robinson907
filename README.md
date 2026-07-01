@@ -117,21 +117,19 @@ To become a skilled **AI Engineer / Software Engineer** and contribute to innova
 
 # ⚡ Coding Profiles
 
-<p align="center">
+## 🧩 LeetCode
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<div align="center">
+
+<a href="https://leetcode.com/u/sirnapally-robinson/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
+> 🚀 Solving Data Structures & Algorithms problems consistently to strengthen problem-solving skills and prepare for Software Engineering & AI roles.
 
-</p>
+</div>
 
 ---
 
