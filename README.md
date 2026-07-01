@@ -14,29 +14,36 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-```python
-class Robinson:
+Hi, I'm **Robinson Sirnapally** 👋
 
-    def __init__(self):
-        self.name = "Robinson Sirnapally"
-        self.education = "B.Tech - Artificial Intelligence & Data Science"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Software Development",
-            "Cloud Computing"
-        ]
-        self.languages = ["Python", "Java", "C++"]
-        self.currently_learning = [
-            "Data Structures & Algorithms",
-            "AWS",
-            "Deep Learning",
-            "System Design"
-        ]
-        self.goal = "Become an AI Engineer"
-```
+I'm a **B.Tech student in Artificial Intelligence & Data Science** with a strong passion for building intelligent software and solving real-world problems through technology. I enjoy transforming ideas into practical applications using **Python, Java, Machine Learning, and Cloud Computing**.
+
+I'm currently focused on strengthening my **Data Structures & Algorithms**, exploring **Machine Learning and Deep Learning**, and gaining hands-on experience with **AWS Cloud**. I believe in continuous learning, writing clean code, and building projects that create real impact.
+
+### 🌱 Currently Learning
+- Data Structures & Algorithms
+- Machine Learning & Deep Learning
+- AWS Cloud
+- System Design
+- Python Development
+
+### 🎯 Career Goal
+To become a skilled **AI Engineer / Software Engineer** and contribute to innovative products powered by Artificial Intelligence while continuously improving my technical and problem-solving skills.
+
+### 💡 Interests
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ☁️ Cloud Computing
+- 💻 Software Development
+- 📊 Data Science
+- 🚀 Open Source
+
+### ⚡ Fun Facts
+- I enjoy solving coding challenges on LeetCode.
+- I love building practical projects to improve my skills.
+- I believe consistency and curiosity are the keys to becoming a great engineer.
 
 ---
 
